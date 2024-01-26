@@ -1,11 +1,11 @@
 {
   "bot-account": {
-    "username": "RapCato"
+    "username": "Kullanıcı Adı"
   },
 
   "server": {
-    "ip": "dnzdran20.aternos.me",
-    "port": 29529,
+    "ip": "IP Adresi",
+    "port": 25565,
     "version": "1.16.5"
   },
 
